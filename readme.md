@@ -11,7 +11,7 @@
 
 Мы накопили большой опыт работы с высоконагруженными системами: у нас десятки тысяч RPS к бэкенду, сотни миллионов объявлений в базе, терабайты картинок в хранилище и мощная система автоматизированной модерации на базе машинного обучения. Каждый месяц проектом пользуется четверть населения России.
 
-Помимо Авито, наша команда разрабатывает сервисы [Автотека](https://autoteka.ru/), [MaxPoster](https://maxposter.ru) и [Domofond.ru](https://www.domofond.ru/).
+Помимо Авито, наша команда разрабатывает сервисы [Автотека](https://autoteka.ru/), [Автохаб](https://ahb.ru), [Хараба](https://haraba.ru)  и [Domofond.ru](https://www.domofond.ru/).
 
 ***
 # Технологический стек Авито
@@ -21,18 +21,18 @@
 
 Данные  | Цифры 
 ------------- | -------------
-Всего сотрудников Авито	| 4000+ человек	
-Команда разработки | 1000+ человек
+Всего сотрудников Авито	| 10000+ человек	
+Команда разработки | 1800+ человек
 Средний возраст сотрудников | 28 лет
-Количество серверов	| 1000+	
+Количество серверов	| 2500+	
 RPS к бэкенду	 | 96 000	
 MAU	 | 50 миллионов человек
 Доля пользователей приложений | 78%
 Релизов изменений | 200-250 в день
-Команд разработки | 58, в каждой из которых от 1 до 4 фиче-команд 
-Активных объявлений	| 100 миллионов
-Модерация	| 5 миллионов версий объявлений в день
-Сделок в секунду | 6
+Команд разработки | 200+ 
+Активных объявлений	| 237 миллионов
+Модерация	| 15 миллионов версий объявлений в день
+Сделок в секунду | 10
 Картинок в хранилище | 28 миллиардов
 ***
 
@@ -51,8 +51,10 @@ MAU	 | 50 миллионов человек
 - [Инженерные практики](https://github.com/avito-tech/playbook/blob/master/avito-developer-practice.md)
 - [Целеполагание по OKR и процесс Performance Review](https://github.com/avito-tech/playbook/blob/master/goal-setting.md)
 - [Опенсорс-проекты сотрудников Авито](https://github.com/avito-tech/playbook/blob/master/avito-open-source.md) 
-- [Условия работы и как к нам попасть](https://github.com/avito-tech/playbook/blob/master/recruitment-and-office.md) 
-- [Управление продуктом](https://github.com/avito-tech/playbook/blob/master/product-management.md)
+- [Условия работы и как к нам попасть](https://github.com/avito-tech/playbook/blob/master/recruitment-and-office.md)
+- [Матрица компетенций дизайнеров](https://github.com/avito-tech/playbook/blob/master/design-levels.md)
+- [Матрица компетенций руководителей дизайна](https://github.com/avito-tech/playbook/blob/master/design-management.md)
+- [Профили продакт-менеджеров](https://github.com/avito-tech/playbook/blob/master/product-levels.md)
 - [Обучение и развитие в команде](https://github.com/avito-tech/playbook/blob/master/training-and-development.md) 
 - [История Авито](https://github.com/avito-tech/playbook/blob/master/avito-history.md)
 - [Образовательные программы для студентов и молодых специалистов](https://github.com/avito-tech/playbook/blob/master/students.md)
